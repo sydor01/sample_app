@@ -1,5 +1,6 @@
 class UsersController < ApplicationController
-  
+# Adding a comment here to see if it gets tracked by Git.
+
   def show
     @user = User.find(params[:id])
   end
