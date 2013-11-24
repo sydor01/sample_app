@@ -1,5 +1,5 @@
 class SessionsController < ApplicationController
-
+# Comment added just to check that git is working.
   def new
   end
 
